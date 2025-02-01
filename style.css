@@ -1,0 +1,32 @@
+.koota{
+    width: 800px;
+    height: 600px;
+    background-color: #2A5D5A;
+    margin: 0% auto;
+    padding-top: 20px;
+}
+.black{
+    width: 600px;
+    
+    background-color: black;
+    margin: 0% auto;
+    padding: 20px;
+    border: 10px solid red;
+}
+h1{
+    background-color: #311313;
+    color: #FFFFFF;
+    width: 300px;
+    text-align: center;
+    margin: 12px auto;
+    padding: 12px;
+}
+.bir{
+     margin-left: 6pxpx;
+    width: 600px;
+    height: 150px ;
+    background-color: #1FE8B7;
+    margin-top: 12px;
+    padding: 12px;
+    box-sizing: border-box;
+}
